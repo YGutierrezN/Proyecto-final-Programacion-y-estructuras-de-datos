@@ -1,0 +1,2 @@
+2024-05-21 08:27:45 - Producto: Leche, Cantidad: 1, Total: 1.2
+2024-05-21 08:39:03 - Producto: Pescado, Cantidad: 5, Total: 40

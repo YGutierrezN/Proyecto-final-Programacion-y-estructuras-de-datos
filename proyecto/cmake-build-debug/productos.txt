@@ -1,0 +1,50 @@
+Manzana,0.5,100,1234567890001,Frutas,Fresca y jugosa manzana roja
+Banana,0.3,150,1234567890002,Frutas,Banana madura
+Naranja,0.6,120,1234567890003,Frutas,Naranja dulce y jugosa
+Leche,1.2,79,1234567890004,Lácteos,Leche entera 1L
+Queso,2.5,60,1234567890005,Lácteos,Queso cheddar
+Yogur,0.9,100,1234567890006,Lácteos,Yogur natural 500g
+Pan,1.1,70,1234567890007,Panadería,Pan de molde
+Mantequilla,2,50,1234567890008,Lácteos,Mantequilla sin sal 200g
+Jamon,3,40,1234567890009,Embutidos,Jamón cocido
+Salchicha,1.5,90,1234567890010,Embutidos,Salchicha de cerdo
+Pasta,1.2,110,1234567890011,Despensa,Pasta spaghetti 500g
+Arroz,0.8,130,1234567890012,Despensa,Arroz blanco 1kg
+Harina,0.7,60,1234567890013,Despensa,Harina de trigo 1kg
+Azúcar,0.9,100,1234567890014,Despensa,Azúcar blanca 1kg
+Sal,0.5,90,1234567890015,Despensa,Sal fina 500g
+Aceite,3.5,70,1234567890016,Despensa,Aceite de oliva 1L
+Vinagre,1.1,60,1234567890017,Despensa,Vinagre de vino blanco 1L
+Cereal,2.8,80,1234567890018,Despensa,Cereal de maíz 500g
+Galletas,1.5,120,1234567890019,Despensa,Galletas de chocolate
+Chocolate,1.2,90,1234567890020,Despensa,Chocolate negro 100g
+Agua,0.6,200,1234567890021,Bebidas,Agua mineral 1.5L
+Refresco,1,150,1234567890022,Bebidas,Refresco de cola 2L
+Jugo,1.5,100,1234567890023,Bebidas,Jugo de naranja 1L
+Cerveza,2,80,1234567890024,Bebidas,Cerveza lager 500ml
+Vino,8,40,1234567890025,Bebidas,Vino tinto 750ml
+Detergente,4,50,1234567890026,Limpieza,Detergente líquido 1L
+Jabón,1.2,100,1234567890027,Limpieza,Jabón de barra
+Shampoo,3.5,60,1234567890028,Higiene,Shampoo anticaspa 400ml
+Papel Higiénico,2.5,100,1234567890029,Higiene,Papel higiénico 4 rollos
+Pasta Dental,1.8,90,1234567890030,Higiene,Pasta dental 100ml
+Desodorante,2.5,70,1234567890031,Higiene,Desodorante en spray
+Café,3,80,1234567890032,Despensa,Café molido 250g
+Té,2.2,60,1234567890033,Despensa,Té verde 100g
+Mermelada,2.5,50,1234567890034,Despensa,Mermelada de fresa 300g
+Miel,3,40,1234567890035,Despensa,Miel de abeja 250g
+Sardinas,1.2,80,1234567890036,Despensa,Sardinas enlatadas
+Atún,1.5,70,1234567890037,Despensa,Atún en agua 170g
+Frijoles,0.9,100,1234567890038,Despensa,Frijoles negros 500g
+Lentejas,0.8,90,1234567890039,Despensa,Lentejas 500g
+Maíz,1,60,1234567890040,Despensa,Maíz enlatado
+Zanahoria,0.5,100,1234567890041,Vegetales,Zanahoria fresca
+Tomate,0.7,110,1234567890042,Vegetales,Tomate maduro
+Cebolla,0.6,80,1234567890043,Vegetales,Cebolla blanca
+Papa,0.4,150,1234567890044,Vegetales,Papa amarilla
+Lechuga,1,60,1234567890045,Vegetales,Lechuga romana
+Pollo,5,50,1234567890046,Carnes,Pollo entero
+Carne Molida,7,40,1234567890047,Carnes,Carne molida de res 500g
+Chuleta,6,30,1234567890048,Carnes,Chuleta de cerdo 500g
+Pescado,8,15,1234567890049,Carnes,Pescado fresco 1kg
+Huevos,2.5,100,1234567890050,Despensa,Huevos frescos 12 unidades
