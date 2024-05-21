@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/celci/CLionProjects/proyecto/cmake-build-debug"
+			"value" : "c:/Users/celci/Documents/GitHub/Proyecto-final-Programacion-y-estructuras-de-datos/proyecto/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/celci/CLionProjects/proyecto/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/celci/Documents/GitHub/Proyecto-final-Programacion-y-estructuras-de-datos/proyecto/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/celci/CLionProjects/proyecto"
+			"value" : "C:/Users/celci/Documents/GitHub/Proyecto-final-Programacion-y-estructuras-de-datos/proyecto"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/celci/CLionProjects/proyecto/cmake-build-debug"
+			"value" : "C:/Users/celci/Documents/GitHub/Proyecto-final-Programacion-y-estructuras-de-datos/proyecto/cmake-build-debug"
 		},
 		{
 			"name" : "proyecto_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/celci/CLionProjects/proyecto"
+			"value" : "C:/Users/celci/Documents/GitHub/Proyecto-final-Programacion-y-estructuras-de-datos/proyecto"
 		}
 	],
 	"kind" : "cache",

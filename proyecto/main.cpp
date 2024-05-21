@@ -91,19 +91,6 @@ void generar_reporte_venta(const string& nombre_producto, int cantidad_vendida, 
             << ", Total: " << total << endl;
 }
 
-void ver_reporte_ventas() {
-    ifstream archivo("reporte_ventas.txt");
-    if (!archivo.is_open()) {
-        cerr << "Error: No se pudo abrir el archivo reporte_ventas.txt" << endl;
-        return;
-    }
-
-    string linea;
-    while (getline(archivo, linea)) {
-        cout << linea << endl;
-    }
-}
-
 void realizar_venta(const string& nombre_producto, int cantidad_vendida, vector<Producto*>& productos) {
     bool venta_realizada = false;
     for (auto& producto : productos) {
@@ -129,7 +116,7 @@ int main() {
     int cantidad_vendida;
 
     do {
-        cout << "1. Buscar producto\n2. Ver estado de productos\n3. Realizar venta\n4. Ver reporte de ventas\n5. Salir\n";
+        cout << "1. Buscar producto\n2. Ver estado de productos\n3. Realizar venta\n4. Salir\n";
         cout << "Seleccione una opción: ";
         cin >> opcion;
         cin.ignore();
@@ -165,15 +152,12 @@ int main() {
                 realizar_venta(nombre_producto, cantidad_vendida, productos);
                 break;
             case 4:
-                ver_reporte_ventas();
-                break;
-            case 5:
                 cout << "Saliendo..." << endl;
                 break;
             default:
                 cout << "Opción no válida. Intente de nuevo." << endl;
         }
-    } while (opcion != 5);
+    } while (opcion != 4);
 
     liberar_productos(productos);
     return 0;
