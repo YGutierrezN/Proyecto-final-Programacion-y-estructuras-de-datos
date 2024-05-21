@@ -73,8 +73,8 @@ vector<Producto*> buscar_producto(const string& criterio, const string& valor, c
 void ver_estado_productos(const vector<Producto*>& productos) {
     for (const auto& producto : productos) {
         cout << "Nombre: " << producto->nombre << ", Precio: " << producto->precio
-             << ", Cantidad: " << producto->cantidad << ", Código de barra: " << producto->codigo_barra
-             << ", Categoría: " << producto->categoria << ", Descripción: " << producto->descripcion << endl;
+             << ", Cantidad: " << producto->cantidad << ", Codigo de barra: " << producto->codigo_barra
+             << ", Categoria: " << producto->categoria << ", Descripcion: " << producto->descripcion << endl;
     }
 }
 
@@ -117,13 +117,13 @@ int main() {
 
     do {
         cout << "1. Buscar producto\n2. Ver estado de productos\n3. Realizar venta\n4. Salir\n";
-        cout << "Seleccione una opción: ";
+        cout << "Seleccione una opcion: ";
         cin >> opcion;
         cin.ignore();
 
         switch (opcion) {
             case 1:
-                cout << "Ingrese el criterio de búsqueda (nombre/codigo_barra/categoria/descripcion): ";
+                cout << "Ingrese el criterio de busqueda (nombre/codigo_barra/categoria/descripcion): ";
                 getline(cin, criterio);
                 cout << "Ingrese el valor a buscar: ";
                 getline(cin, valor);
@@ -134,8 +134,8 @@ int main() {
                     } else {
                         for (const auto& producto : resultados) {
                             cout << "Nombre: " << producto->nombre << ", Precio: " << producto->precio
-                                 << ", Cantidad: " << producto->cantidad << ", Código de barra: " << producto->codigo_barra
-                                 << ", Categoría: " << producto->categoria << ", Descripción: " << producto->descripcion << endl;
+                                 << ", Cantidad: " << producto->cantidad << ", Codigo de barra: " << producto->codigo_barra
+                                 << ", Categoria: " << producto->categoria << ", Descripcion: " << producto->descripcion << endl;
                         }
                     }
                 }
